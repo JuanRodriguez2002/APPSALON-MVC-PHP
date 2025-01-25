@@ -24,9 +24,9 @@
     .app{
         width: 95%;
         margin: 0 auto;
-        padding: 3rem 0;
+        padding: 3rem 2rem;
         @include m.tablet{
-          overflow: scroll;  
+          overflow: auto;  
         }
     }
 }
